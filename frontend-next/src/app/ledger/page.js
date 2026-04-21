@@ -89,7 +89,7 @@ export default function TransparencyLedger() {
             <Hash size={18} /> Cryptographic Transaction Log
           </h3>
           <span style={{ fontSize: '12px', color: 'var(--color-text-muted)', fontWeight: 500 }}>
-            Syncing with ImpactChain...
+            Syncing with Awaaz...
           </span>
         </div>
 

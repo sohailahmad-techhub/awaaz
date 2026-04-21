@@ -1,6 +1,6 @@
-# 🌍 ImpactChain (Awaaz)
+# 🌍 Awaaz
 
-**ImpactChain** is a decentralized-style community problem-solving platform designed to connect citizens, NGOs, and donors. It leverages AI for problem verification and blockchain-inspired transparency to ensure that every cent donated reaches its intended destination.
+**Awaaz** is a decentralized-style community problem-solving platform designed to connect citizens, NGOs, and donors. It leverages AI for problem verification and blockchain-inspired transparency to ensure that every cent donated reaches its intended destination.
 
 ---
 

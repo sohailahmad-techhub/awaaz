@@ -2,7 +2,7 @@ import "./globals.css";
 import Navbar from "@/components/Navbar";
 
 export const metadata = {
-  title: "ImpactChain",
+  title: "Awaaz",
   description: "A transparent, AI-verified, decentralized problem-reporting platform.",
 };
 

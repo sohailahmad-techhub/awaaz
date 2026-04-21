@@ -216,7 +216,7 @@ export default function ProjectDetail({ params }) {
             
             <h3 style={{ fontSize: '20px', fontWeight: 700, textAlign: 'center', marginBottom: '8px', color: 'var(--color-text-title)' }}>Transparent Funding</h3>
             <p style={{ color: 'var(--color-text-muted)', fontSize: '14px', textAlign: 'center', marginBottom: '32px', lineHeight: 1.5 }}>
-              Funds are held on ImpactChain and released strictly upon verified milestone completion.
+              Funds are held on Awaaz and released strictly upon verified milestone completion.
             </p>
 
             <div style={{ marginBottom: '12px', display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end' }}>
